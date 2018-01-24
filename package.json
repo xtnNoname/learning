@@ -1,0 +1,23 @@
+{
+  "name": "electron test",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/xtnNoname/learning/electron",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "noName",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^1.8.1"
+  }
+}
